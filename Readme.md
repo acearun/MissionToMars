@@ -129,10 +129,6 @@ The curriculum is flexible:
 - Go deeper into sensors or autonomy for advanced students  
 - Add challenges such as speed trials, obstacle courses, or sample retrieval tasks
 
-## Contributing
-
-If you run this course and improve lessons, code, or materials, please open a pull request. The goal is to make high-quality robotics education more accessible.
-
 ## License
 
 This repository is licensed under the terms in LICENSE-MMCL-1.1.txt.
