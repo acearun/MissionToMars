@@ -1,0 +1,111 @@
+Mission to Mars Community License (MMCL-1.1)
+Copyright © 2026 Arun Mathew Abraham (“Licensor”). 
+All rights reserved.
+
+This License governs use of the educational curriculum titled “Mission
+to Mars – Build Your Own Robotic Rover” (the “Course”).
+
+1.  Definitions
+
+“Course” means the complete curriculum and all associated materials,
+including but not limited to lesson plans, presentations, slides,
+documents, worksheets, activity guides, instructor notes, assessments,
+media, templates, diagrams, code samples, and supporting resources,
+whether provided in whole or in part.
+
+“Derivative Works” means any modification, adaptation, translation,
+abridgment, expansion, compilation, or other work based upon or
+incorporating any portion of the the Course.
+
+“Use” means to copy, reproduce, display, perform, distribute, transmit,
+host, publish, share, teach from, adapt, or create Derivative Works from
+the Course.
+
+“Commercial Use” means any Use where the Course or any Derivative
+Works: 
+1. directly or indirectly generates revenue; 
+2. contributes materially to a revenue-generating activity; or 
+3. is used by or for the benefit of a for-profit entity, regardless of 
+   whether a specific fee is charged for the Course itself.
+
+Commercial Use includes, without limitation: 
+- charging fees for classes, camps, workshops, tutoring, or programs 
+- tuition-, subscription-, or membership-based offerings 
+- charging for materials, kits, registration, facilities, mentorship, 
+  or instructor time when the Course is used  
+- sponsorship-funded programs connected to a paid organization 
+- sale, licensing, bundling, or redistribution of the Course 
+- use in SaaS platforms, apps, or paid educational services
+
+For-profit entities must obtain a Commercial License even if the program
+using the Course is offered at no charge.
+
+“Gross Revenue” means all amounts billed or received before expenses,
+deductions, refunds, discounts, or taxes that are attributable to
+offerings using the Course or Derivative Works.
+
+2.  License Grant (Non-Commercial)
+
+Licensor grants a worldwide, non-exclusive, royalty-free license to Use
+the Course solely for Non-Commercial Use.
+
+3.  Attribution
+
+All Uses must include: “Mission to Mars – Build Your Own Robotic Rover”
+by . Used under the Mission to Mars Community License (MMCL-1.1).
+Commercial use requires a paid license.
+
+4.  Commercial Use Prohibited Without License
+
+Commercial Use requires a separate written Commercial License from
+Licensor.
+
+5.  Commercial License Royalty, Floor, and Reporting
+
+Commercial Licensees must pay the greater of: 
+• 10% of Gross Revenue, OR
+• $25 per participant per cohort, OR 
+• $2000 per calendar year.
+
+Quarterly written revenue reports are required, and payments must be
+made within 30 days after each calendar quarter. Records must be
+retained for at least 3 years.
+
+6.  Audit Right
+
+Licensor may audit records once per year with reasonable notice.
+Underpayments over 5% require reimbursement of audit costs. If the
+royalty floor exceeds the percentage royalty, the floor remains due.
+
+7.  No Trademark License
+
+No trademark or branding rights are granted.
+
+8.  Termination
+
+Violation of this License terminates rights immediately.
+
+9.  Injunctive Relief
+
+Unauthorized Commercial Use constitutes irreparable harm entitling
+Licensor to injunctive relief.
+
+10. Disclaimer
+
+THE COURSE IS PROVIDED “AS IS”.
+
+11. Limitation of Liability
+
+Licensor is not liable for damages.
+
+12. Governing Law
+
+Washington State law governs. Venue is King County, Washington.
+
+13. Acceptance
+
+By Using the Course, you agree to this License.
+
+14. Contact
+
+Commercial licensing inquiries: acearun@gmail.com
